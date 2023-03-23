@@ -1,0 +1,8 @@
+C:\Users\TuF\source\repos\MessageSenderServer\ChatUser\bin\Debug\ChatUser.exe.config
+C:\Users\TuF\source\repos\MessageSenderServer\ChatUser\bin\Debug\ChatUser.exe
+C:\Users\TuF\source\repos\MessageSenderServer\ChatUser\bin\Debug\ChatUser.pdb
+C:\Users\TuF\source\repos\MessageSenderServer\ChatUser\obj\Debug\ChatUser.csproj.AssemblyReference.cache
+C:\Users\TuF\source\repos\MessageSenderServer\ChatUser\obj\Debug\ChatUser.csproj.SuggestedBindingRedirects.cache
+C:\Users\TuF\source\repos\MessageSenderServer\ChatUser\obj\Debug\ChatUser.csproj.CoreCompileInputs.cache
+C:\Users\TuF\source\repos\MessageSenderServer\ChatUser\obj\Debug\ChatUser.exe
+C:\Users\TuF\source\repos\MessageSenderServer\ChatUser\obj\Debug\ChatUser.pdb

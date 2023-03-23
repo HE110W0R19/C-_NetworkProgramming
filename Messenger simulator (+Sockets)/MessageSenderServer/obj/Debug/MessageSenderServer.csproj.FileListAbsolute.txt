@@ -1,0 +1,8 @@
+C:\Users\TuF\source\repos\MessageSenderServer\MessageSenderServer\bin\Debug\MessageSenderServer.exe.config
+C:\Users\TuF\source\repos\MessageSenderServer\MessageSenderServer\bin\Debug\MessageSenderServer.exe
+C:\Users\TuF\source\repos\MessageSenderServer\MessageSenderServer\bin\Debug\MessageSenderServer.pdb
+C:\Users\TuF\source\repos\MessageSenderServer\MessageSenderServer\obj\Debug\MessageSenderServer.csproj.AssemblyReference.cache
+C:\Users\TuF\source\repos\MessageSenderServer\MessageSenderServer\obj\Debug\MessageSenderServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\TuF\source\repos\MessageSenderServer\MessageSenderServer\obj\Debug\MessageSenderServer.csproj.CoreCompileInputs.cache
+C:\Users\TuF\source\repos\MessageSenderServer\MessageSenderServer\obj\Debug\MessageSenderServer.exe
+C:\Users\TuF\source\repos\MessageSenderServer\MessageSenderServer\obj\Debug\MessageSenderServer.pdb
