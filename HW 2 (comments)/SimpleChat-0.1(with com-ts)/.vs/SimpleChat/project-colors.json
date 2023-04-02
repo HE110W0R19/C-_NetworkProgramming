@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6b7ea66-f593-48a3-919e-9c570f472a4f": {
+      "ProjectGuid": "f6b7ea66-f593-48a3-919e-9c570f472a4f",
+      "DisplayName": "SimpleChat",
+      "ColorIndex": 0
+    },
+    "7437dcb4-cbd2-4dfc-8c8f-2c3033d2a2da": {
+      "ProjectGuid": "7437dcb4-cbd2-4dfc-8c8f-2c3033d2a2da",
+      "DisplayName": "ChatServer",
+      "ColorIndex": 1
+    },
+    "cf4c615e-aa4c-4b71-953a-ed475ecbdb72": {
+      "ProjectGuid": "cf4c615e-aa4c-4b71-953a-ed475ecbdb72",
+      "DisplayName": "ChatClient",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

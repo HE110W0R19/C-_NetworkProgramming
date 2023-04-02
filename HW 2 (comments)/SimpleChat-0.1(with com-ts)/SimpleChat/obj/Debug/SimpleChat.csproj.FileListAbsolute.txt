@@ -1,0 +1,22 @@
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\SimpleChat\obj\Debug\SimpleChat.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\SimpleChat\obj\Debug\SimpleChat.pdb
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\SimpleChat\obj\Debug\SimpleChat.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\SimpleChat\obj\Debug\SimpleChat.pdb
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.AssemblyReference.cache
+Z:\Мой диск\GitHub\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
+Z:\Мой диск\GitHub\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+Z:\Мой диск\GitHub\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+Z:\Мой диск\GitHub\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csprojAssemblyReference.cache
+Z:\Мой диск\GitHub\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+Z:\Мой диск\GitHub\SimpleChat\SimpleChat\obj\Debug\SimpleChat.exe
+Z:\Мой диск\GitHub\SimpleChat\SimpleChat\obj\Debug\SimpleChat.pdb
