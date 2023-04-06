@@ -1,0 +1,6 @@
+Z:\Мой диск\GitHub\SimpleChat\SocketUtility\obj\Debug\SocketUtility.csprojAssemblyReference.cache
+Z:\Мой диск\GitHub\SimpleChat\SocketUtility\obj\Debug\SocketUtility.csproj.CoreCompileInputs.cache
+Z:\Мой диск\GitHub\SimpleChat\SocketUtility\bin\Debug\SocketUtility.dll
+Z:\Мой диск\GitHub\SimpleChat\SocketUtility\bin\Debug\SocketUtility.pdb
+Z:\Мой диск\GitHub\SimpleChat\SocketUtility\obj\Debug\SocketUtility.dll
+Z:\Мой диск\GitHub\SimpleChat\SocketUtility\obj\Debug\SocketUtility.pdb

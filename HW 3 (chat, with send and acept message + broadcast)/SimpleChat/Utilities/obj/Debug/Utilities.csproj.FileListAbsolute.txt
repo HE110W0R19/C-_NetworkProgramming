@@ -1,0 +1,12 @@
+Z:\Мой диск\GitHub\SimpleChat\Utilities\bin\Debug\Utilities.dll
+Z:\Мой диск\GitHub\SimpleChat\Utilities\bin\Debug\Utilities.pdb
+Z:\Мой диск\GitHub\SimpleChat\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+Z:\Мой диск\GitHub\SimpleChat\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+Z:\Мой диск\GitHub\SimpleChat\Utilities\obj\Debug\Utilities.dll
+Z:\Мой диск\GitHub\SimpleChat\Utilities\obj\Debug\Utilities.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\Utilities\bin\Debug\Utilities.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\Utilities\bin\Debug\Utilities.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\Utilities\obj\Debug\Utilities.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\Utilities\obj\Debug\Utilities.pdb
