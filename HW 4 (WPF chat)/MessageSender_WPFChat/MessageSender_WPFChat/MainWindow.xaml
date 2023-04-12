@@ -1,0 +1,72 @@
+﻿<Window x:Class="MessageSender_WPFChat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MessageSender_WPFChat"
+        mc:Ignorable="d"
+        Title="Chat" Height="605" Width="385" ResizeMode="NoResize">
+    <Grid Height="576" Width="373">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/WAppBackground.jpg"/>
+        </Grid.Background>
+        <TextBox x:Name="MessageInput_TextBox" HorizontalAlignment="Left" Margin="14,525,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="267" Height="26" Background="White" Foreground="Black" BorderBrush="White" Panel.ZIndex="1" FontFamily="Yu Gothic UI" FontSize="16"/>
+        <Rectangle HorizontalAlignment="Left" RadiusX="18" RadiusY="25" Width="308" Height="40" Margin="10,510,55,10" Fill="White"/>
+        <Button x:Name="Clip_Button" HorizontalAlignment="Left" Width="31" Height="26" Margin="281,517,61,17" Foreground="{x:Null}" BorderBrush="{x:Null}" Click="ClipButton_Click">
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="/Images/ClipImage.bmp" TileMode="None">
+                    <ImageBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5" ScaleX="2" ScaleY="2"/>
+                            <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                            <RotateTransform CenterX="0.5" CenterY="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </ImageBrush.RelativeTransform>
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+        <Rectangle x:Name="SendMessage_Button" HorizontalAlignment="Left" Height="40" Width="40" RadiusX="100" RadiusY="100" Margin="323,510,10,10" RenderTransformOrigin="0.5,0.5" MouseLeftButtonDown="SendButton_Click" >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/Images/SendButton_Image.bmp"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label HorizontalAlignment="Center" VerticalAlignment="Top" Width="373" Height="48" Background="#FF007E55">
+            <Rectangle Height="38" Width="38" RadiusX="100" RadiusY="100">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/Images/DB_Image.bmp"/>
+                </Rectangle.Fill>
+            </Rectangle>
+        </Label>
+        <Label Content="SERVER" HorizontalAlignment="Left" Margin="48,-1,0,0" VerticalAlignment="Top" Foreground="White" Width="74" Height="32" FontSize="16"/>
+        <Label Content="Port:" HorizontalAlignment="Left" Margin="48,24,0,0" VerticalAlignment="Top" Foreground="#FFCBCBCB" Height="24" Width="37" Background="{x:Null}"/>
+        <Label x:Name="PortNum_label" Content="" HorizontalAlignment="Left" Margin="75,24,0,0" VerticalAlignment="Top" Foreground="#FFCBCBCB" Height="24" Width="37" Background="{x:Null}"/>
+        <RichTextBox x:Name="ChatContent_RichTextBox"  Margin="10,53,10,63" Background="{x:Null}" BorderBrush="{x:Null}" FontSize="18" FontFamily="Ebrima" SelectionBrush="{x:Null}" IsEnabled="False">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+        <!--First "start" window-->
+
+        <Label x:Name="StartWindow_label" Height="580" Width="375" Panel.ZIndex="2" Background="#FFC3C3C3">
+            <!--Header-->
+            <Label x:Name="StartHeader_label" Height="49" Width="365" Background="#FF177043">
+                <!--User Image-->
+                <Rectangle x:Name="StartUserImage" Height="39" Width="39" RadiusX="100" RadiusY="100">
+                    <Rectangle.Fill>
+                        <ImageBrush ImageSource="/Images/User_Image.jpg" Stretch="UniformToFill"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Label>
+        </Label>
+        <Label x:Name="StartUserName_Label" Content="Name:" Panel.ZIndex="2" Margin="51,4,267,542" Foreground="#FFCFCFCF" FontSize="16"/>
+        <TextBox x:Name="StartUserName_TextBox" Text="FirstUser_1" Panel.ZIndex="2" Margin="106,8,86,542" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" FontSize="18"/>
+        <Label x:Name="ServerList_Label" Panel.ZIndex="2" Content="Found servers:" Margin="10,53,187,491" FontSize="18" Background="{x:Null}" Foreground="#FF474747" FontFamily="Comic Sans MS"/>
+        <ListBox x:Name="ServerList_ListBox" Panel.ZIndex="2" Margin="10,90,10,288" Background="#FFDDDDDD" FontStyle="Italic"/>
+        <Button x:Name="ConnectToServer_Button" Panel.ZIndex="2" Content="CONNECT" Margin="140,311,141,240" Foreground="White" FontWeight="Bold" Background="#FF00A167" Click="ConnectToServer_Button_Click"/>
+        <Button x:Name="SearchServer_Button" Content="SEARCH" Panel.ZIndex="2" Height="20" Margin="286,65,10,491" Click="SearchServer_Button_Click"/>
+    </Grid>
+</Window>

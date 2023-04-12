@@ -1,0 +1,12 @@
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatShared\bin\Debug\ChatShared.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatShared\bin\Debug\ChatShared.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatShared\obj\Debug\ChatShared.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatShared\obj\Debug\ChatShared.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatShared\obj\Debug\ChatShared.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatShared\obj\Debug\ChatShared.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatShared\bin\Debug\ChatShared.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatShared\bin\Debug\ChatShared.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatShared\obj\Debug\ChatShared.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatShared\obj\Debug\ChatShared.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatShared\obj\Debug\ChatShared.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatShared\obj\Debug\ChatShared.pdb

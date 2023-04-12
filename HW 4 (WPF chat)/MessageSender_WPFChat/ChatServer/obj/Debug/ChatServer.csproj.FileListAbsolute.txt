@@ -1,0 +1,50 @@
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SimpleChat_1\SimpleChat\ChatServer\obj\Debug\ChatServer.pdb
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\bin\Debug\ChatServer.exe.config
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\bin\Debug\ChatServer.exe
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\bin\Debug\ChatServer.pdb
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\obj\Debug\ChatServer.exe
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\obj\Debug\ChatServer.pdb
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\bin\Debug\Utilities.dll
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\bin\Debug\Utilities.pdb
+Z:\Мой диск\GitHub\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\bin\Debug\Utilities.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\bin\Debug\Utilities.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\bin\Debug\ChatShared.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 3\SimpleChat\ChatServer\bin\Debug\ChatShared.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\bin\Debug\ChatShared.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\bin\Debug\Utilities.dll
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\bin\Debug\Utilities.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\bin\Debug\ChatShared.pdb
+C:\Users\TuF\Desktop\Programs\ШАГ\ДЗ ШАГ\ДЗ сетевое прогр\ДЗ 4\MessageSender_WPFChat\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
