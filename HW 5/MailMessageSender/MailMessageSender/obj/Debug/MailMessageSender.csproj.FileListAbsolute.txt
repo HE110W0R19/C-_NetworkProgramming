@@ -1,0 +1,11 @@
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\bin\Debug\MailMessageSender.exe.config
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\bin\Debug\MailMessageSender.exe
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\bin\Debug\MailMessageSender.pdb
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\obj\Debug\MailMessageSender.csproj.AssemblyReference.cache
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\obj\Debug\MailMessageSender.csproj.SuggestedBindingRedirects.cache
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\obj\Debug\MailMessageSender.Form1.resources
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\obj\Debug\MailMessageSender.Properties.Resources.resources
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\obj\Debug\MailMessageSender.csproj.GenerateResource.cache
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\obj\Debug\MailMessageSender.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\obj\Debug\MailMessageSender.exe
+C:\Users\TuF\Documents\GitHub\C-_NetworkProgramming\HW 5\MailMessageSender\MailMessageSender\obj\Debug\MailMessageSender.pdb
